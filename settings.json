@@ -9,7 +9,7 @@
 				"increment_limit": 0,
 				"pattern": "\\/([a-zA-Z0-9]+)\\.zip"
 			},
-			"url": "https://github.com/brahmkshatriya/echo-youtube-extension/blob/main/.github/workflows/build.yml?query=branch%3Amain",
+			"url": "https://github.com/brahmkshatriya/echo-youtube-extension/blob/main/.github%2Fworkflows%2Fbuild.yml",
 			"agent": null,
 			"patterns": ["Youtube", "echo-yt\\.apk"],
 			"url_encoded": false
@@ -23,7 +23,7 @@
 				"increment_limit": 0,
 				"pattern": "\\/([a-zA-Z0-9]+)\\.zip"
 			},
-			"url": "https://github.com/LuftVerbot/echo-deezer-extension/blob/main/.github/workflows/build.yml?query=branch%3Amain",
+			"url": "https://github.com/LuftVerbot/echo-deezer-extension/blob/main/.github%2Fworkflows%2Fbuild.yml",
 			"agent": null,
 			"patterns": ["Deezer", "echo-deezer\\.apk"],
 			"url_encoded": false
