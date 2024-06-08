@@ -1,46 +1,33 @@
 {
 	"to_download": {
-		"Codex": {
-			"name": "Codex_2.623.apk",
-			"type": "enumeration",
-			"identifier": { "latest": "2.623", "enum_limit": 500, "increment_limit": 999, "pattern": "\\d+(?:\\.\\d+)+" },
-			"url": "https://cdn.codex.lol/public/Codex_",
-			"agent": "Codex Android",
-			"patterns": null,
-			"url_encoded": false
-		},
-		"Dantotsu": {
-			"name": "app-google-alpha.apk",
+		"Echo Youtube": {
+			"name": "echo-youtube.apk",
 			"type": "artifact",
 			"identifier": {
-				"latest": "f0f2d2aba6b71f9649c29cb455b4953be0459fa879643ab4f988b56bc290c564",
+				"latest": "e57b321ebc0af3bce8b5049241d3834909250d4f",
 				"enum_limit": 0,
 				"increment_limit": 0,
 				"pattern": "\\/([a-zA-Z0-9]+)\\.zip"
 			},
-			"url": "https://github.com/rebelonion/Dantotsu/actions/workflows/beta.yml?query=branch%3Adev",
+			"url": "https://github.com/brahmkshatriya/echo-youtube-extension/blob/main/.github/workflows/build.yml?query=branch%3Amain",
 			"agent": null,
-			"patterns": ["Dantotsu", "app-google-alpha\\.apk"],
+			"patterns": ["Youtube", "echo-yt\\.apk"],
 			"url_encoded": false
 		},
-		"TikTok": {
-			"name": "34.9.5-universal.apk",
-			"type": "web",
-			"identifier": { "latest": "34.9.5", "enum_limit": 0, "increment_limit": 0, "pattern": "\\/(\\d+(?:\\.\\d+)+)" },
-			"url": "https://store.kde.org/p/1515346/loadFiles",
+		"Echo Deezer": {
+			"name": "echo-deezer.apk",
+			"type": "artifact",
+			"identifier": {
+				"latest": "c3d105d55cd132c672ec14f40f28553c923e29c5",
+				"enum_limit": 0,
+				"increment_limit": 0,
+				"pattern": "\\/([a-zA-Z0-9]+)\\.zip"
+			},
+			"url": "https://github.com/LuftVerbot/echo-deezer-extension/blob/main/.github/workflows/build.yml?query=branch%3Amain",
 			"agent": null,
-			"patterns": ["https://files04\\.pling\\.com/api/files/download/j/[^/]+/\\d+(?:\\.\\d+)+-universal\\.apk"],
-			"url_encoded": true
-		},
-		"TikTok Plugin": {
-			"name": "1.41_plugin.apk",
-			"type": "web",
-			"identifier": { "latest": "1.41", "enum_limit": 0, "increment_limit": 0, "pattern": "\\d+(?:\\.\\d+)+" },
-			"url": "https://tiktokmodcloud.com/ttplugin.html",
-			"agent": null,
-			"patterns": ["https://oxy\\.cloud\\/[^\\s\"']+", "https://loader\\.oxy\\.st\\/get\\/[^\\s\"']+"],
+			"patterns": ["Deezer", "echo-deezer\\.apk"],
 			"url_encoded": false
-		}
+		},
 	},
 	"wait_time": 15
 }
