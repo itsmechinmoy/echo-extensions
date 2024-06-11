@@ -1,33 +1,34 @@
+
 {
-	"to_download": {
-		"Echo Youtube": {
-			"name": "echo-youtube.apk",
-			"type": "artifact",
-			"identifier": {
-				"latest": "e57b321ebc0af3bce8b5049241d3834909250d4f",
-				"enum_limit": 0,
-				"increment_limit": 0,
-				"pattern": "\\/([a-zA-Z0-9]+)\\.zip"
-			},
-			"url": "https://github.com/brahmkshatriya/echo-youtube-extension/actions/workflows/build.yml?query=branch%3Amain",
-			"agent": null,
-			"patterns": ["Youtube", "echo-yt\\.apk"],
-			"url_encoded": false
-		},
-		"Echo Deezer": {
-			"name": "echo-deezer.apk",
-			"type": "artifact",
-			"identifier": {
-				"latest": "c3d105d55cd132c672ec14f40f28553c923e29c5",
-				"enum_limit": 0,
-				"increment_limit": 0,
-				"pattern": "\\/([a-zA-Z0-9]+)\\.zip"
-			},
-			"url": "https://github.com/LuftVerbot/echo-deezer-extension/actions/workflows/build.yml?query=branch%3Amain",
-			"agent": null,
-			"patterns": ["Deezer", "echo-deezer\\.apk"],
-			"url_encoded": false
-		},
-	},
-	"wait_time": 15
+    "to_download": {
+        "Echo Deezer": {
+            "name": "app-debug.apk",
+            "type": "artifact",
+            "identifier": {
+                "latest": "a",
+                "enum_limit": 0,
+                "increment_limit": 0,
+                "pattern": "\\/([a-zA-Z0-9]+)\\.zip"
+            },
+            "url": "https://github.com/LuftVerbot/echo-deezer-extension/actions/workflows/build.yml?query=branch%3Amain",
+            "agent": null,
+            "patterns": ["artifact", "app-debug\\.apk"],
+            "url_encoded": false
+        },
+        "Echo Youtube": {
+            "name": "app-debug.apk",
+            "type": "artifact",
+            "identifier": {
+                "latest": "a",
+                "enum_limit": 0,
+                "increment_limit": 0,
+                "pattern": "\\/([a-zA-Z0-9]+)\\.zip"
+            },
+            "url": "https://github.com/brahmkshatriya/echo-youtube-extension/actions/workflows/build.yml?query=branch%3Amain",
+            "agent": null,
+            "patterns": ["artifact", "app-debug\\.apk"],
+            "url_encoded": false
+        }
+    },
+    "wait_time": 15
 }
