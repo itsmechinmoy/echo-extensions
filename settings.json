@@ -1,1 +1,78 @@
-{"to_download":{"Echo Deezer":{"name":"app-debug.apk","type":"artifact","identifier":{"latest":"c7c5c1d70c5dec4416ab6158afd0b223ef40c29b1dc1f97ed9428b94d4cadb1c","enum_limit":0,"increment_limit":0,"pattern":"\\/([a-zA-Z0-9]+)\\.zip"},"url":"https://github.com/LuftVerbot/echo-deezer-extension/actions/workflows/build.yml?query=branch%3Amain","agent":null,"patterns":["artifact","app-debug\\.apk"],"url_encoded":false},"Echo Discord RPC":{"name":"app-debug.apk","type":"artifact","identifier":{"latest":"c7c5c1d70c5dec4416ab6158afd0b223ef40c29b1dc1f97ed9428b94d4cadb1c","enum_limit":0,"increment_limit":0,"pattern":"\\/([a-zA-Z0-9]+)\\.zip"},"url":"https://github.com/brahmkshatriya/echo-discord/actions/workflows/build.yml?query=branch%3Amain","agent":null,"patterns":["artifact","app-debug\\.apk"],"url_encoded":false},"Echo Youtube":{"name":"app-debug.apk","type":"artifact","identifier":{"latest":"c7c5c1d70c5dec4416ab6158afd0b223ef40c29b1dc1f97ed9428b94d4cadb1c","enum_limit":0,"increment_limit":0,"pattern":"\\/([a-zA-Z0-9]+)\\.zip"},"url":"https://github.com/brahmkshatriya/echo-youtube-extension/actions/workflows/build.yml?query=branch%3Amain","agent":null,"patterns":["artifact","app-debug\\.apk"],"url_encoded":false}},"wait_time":15,"webhook":{"enabled":false,"notify":""}}
+{
+  "to_download": {
+    "Echo Deezer": {
+      "name": "app-debug.apk",
+      "type": "artifact",
+      "identifier": {
+        "latest": "c7c5c1d70c5dec4416ab6158afd0b223ef40c29b1dc1f97ed9428b94d4cadb1c",
+        "enum_limit": 0,
+        "increment_limit": 0,
+        "pattern": "\\/([a-zA-Z0-9]+)\\.zip"
+      },
+      "url": "https://github.com/LuftVerbot/echo-deezer-extension/actions/workflows/build.yml?query=branch%3Amain",
+      "agent": null,
+      "patterns": [
+        "artifact",
+        "app-debug\\.apk"
+      ],
+      "url_encoded": false
+    },
+    "Echo Discord RPC": {
+      "name": "app-debug.apk",
+      "type": "artifact",
+      "identifier": {
+        "latest": "c7c5c1d70c5dec4416ab6158afd0b223ef40c29b1dc1f97ed9428b94d4cadb1c",
+        "enum_limit": 0,
+        "increment_limit": 0,
+        "pattern": "\\/([a-zA-Z0-9]+)\\.zip"
+      },
+      "url": "https://github.com/brahmkshatriya/echo-discord/actions/workflows/build.yml?query=branch%3Amain",
+      "agent": null,
+      "patterns": [
+        "artifact",
+        "app-debug\\.apk"
+      ],
+      "url_encoded": false
+    },
+    "Echo Youtube": {
+      "name": "app-debug.apk",
+      "type": "artifact",
+      "identifier": {
+        "latest": "c7c5c1d70c5dec4416ab6158afd0b223ef40c29b1dc1f97ed9428b94d4cadb1c",
+        "enum_limit": 0,
+        "increment_limit": 0,
+        "pattern": "\\/([a-zA-Z0-9]+)\\.zip"
+      },
+      "url": "https://github.com/brahmkshatriya/echo-youtube-extension/actions/workflows/build.yml?query=branch%3Amain",
+      "agent": null,
+      "patterns": [
+        "artifact",
+        "app-debug\\.apk"
+      ],
+      "url_encoded": false
+    }
+  },
+  "Echo LastFM": {
+      "name": "app-debug.apk",
+      "type": "artifact",
+      "identifier": {
+        "latest": "ec16fb7b2462c949cc0cec2eb1911a2ed0204bb5",
+        "enum_limit": 0,
+        "increment_limit": 0,
+        "pattern": "\\/([a-zA-Z0-9]+)\\.zip"
+      },
+      "url": "https://github.com/rebelonion/echo-lastfm/actions/workflows/build.yml?query=branch%3Amain",
+      "agent": null,
+      "patterns": [
+        "artifact",
+        "app-debug\\.apk"
+      ],
+      "url_encoded": false
+    }
+  },
+  "wait_time": 15,
+  "webhook": {
+    "enabled": false,
+    "notify": ""
+  }
+}
