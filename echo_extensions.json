@@ -104,6 +104,22 @@
     "updateUrl": "https://api.github.com/repos/shub39/echo-musixmatch-extension/releases"
   },
   {
+    "id": "nekoir",
+    "type": "music",
+    "name": "Nekoir",
+    "subtitle": "Play music from EchoirX on Echo",
+    "iconUrl": "http://nekomimi.tilde.team/pool/05/nekoir.png",
+    "updateUrl": "https://api.github.com/repos/NekoMimiOfficial/echo-nekoir-extension/releases"
+  },
+  {
+    "id": "radio_browser",
+    "type": "music",
+    "name": "Radio Browser",
+    "subtitle": "Play radio from Radio Browser on Echo",
+    "iconUrl": "https://icons.duckduckgo.com/ip3/www.radio-browser.info.ico",
+    "updateUrl": "https://api.github.com/repos/m-tki/echo-radiobrowser-extension/releases"
+  },
+  {
     "id": "spotify",
     "type": "music",
     "name": "Spotify",
