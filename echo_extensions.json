@@ -64,6 +64,14 @@
     "updateUrl": "https://api.github.com/repos/m-tki/echo-iheart-extension/releases"
   },
   {
+    "id": "iptv_org",
+    "type": "music",
+    "name": "IPTV-org",
+    "subtitle": "Watch IPTV streams from IPTV-org on Echo",
+    "iconUrl": "https://avatars.githubusercontent.com/u/55937028",
+    "updateUrl": "https://api.github.com/repos/m-tki/echo-iptv-extension/releases"
+  },
+  {
     "id": "kugou_lyrics",
     "type": "lyrics",
     "name": "Kugou",
