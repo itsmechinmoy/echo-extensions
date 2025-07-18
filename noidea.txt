@@ -10,5 +10,9 @@
   {
     "secret": "kQ19C]WQEC(]02.[^q)lMk\"",
     "version": 12
+  },
+  {
+    "secret": "#7g i/T'ea(WC^ XWdV",
+    "version": 16
   }
 ]
