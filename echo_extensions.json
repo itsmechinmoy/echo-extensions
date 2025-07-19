@@ -138,10 +138,10 @@
   {
     "id": "Tunein",
     "type": "music",
-    "name": "Tunein",
+    "name": "TuneIn",
     "subtitle": "Play radio from Tunein on Echo",
-    "iconUrl": "https://github.com/GrimXer0/EchoTuneIn-extension/blob/main/62e134487fe3599fdd46ecb9-1734379316%20(1)-modified.png?raw=true",
-    "updateUrl": "https://api.github.com/repos/GrimXer0/EchoTuneIn-extension/releases"
+    "iconUrl": "https://cms.tunein.com/wp-content/uploads/2021/11/AppTile_TuneIn.png",
+    "updateUrl": "https://api.github.com/repos/m-tki/echo-tunein-extension/releases"
   },
   {
     "id": "youtube-music",
