@@ -1,6 +1,6 @@
 [
-    {
-        "secret": "co/X18vA4C2hue7^_K^1E$U@J<",
-        "version": 19
-    }
+  {
+    "secret": "cew{Ex[{aJ50Lf7En6",
+    "version": 22
+  }
 ]
