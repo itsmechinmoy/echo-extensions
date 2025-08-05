@@ -1,1 +1,6 @@
-[{"secret":"0\'Ep-k`^9(3zb|weR","version":23}]
+[
+  {
+    "secret": "cew{Ex[{aJ50Lf7En6",
+    "version": 22
+  }
+]
