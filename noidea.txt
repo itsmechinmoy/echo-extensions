@@ -1,6 +1,1 @@
-[
-  {
-    "secret": "cew{Ex[{aJ50Lf7En6",
-    "version": 22
-  }
-]
+[{"secret":"L(N]nu\\\\-%E3U9ZIivoT{<X","version":24}]
