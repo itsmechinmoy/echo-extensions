@@ -24,11 +24,43 @@
     "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-echodown-extension/releases"
   },
   {
+    "id": "iheartradio",
+    "type": "music",
+    "name": "iHeartRadio",
+    "subtitle": "Play music from iHeartRadio on Echo",
+    "iconUrl": "https://files.catbox.moe/52dxag.jpg",
+    "updateUrl": "https://api.github.com/repos/m-tki/echo-iheart-extension/releases"
+  },
+  {
+    "id": "iptv_org",
+    "type": "music",
+    "name": "IPTV-org",
+    "subtitle": "Watch IPTV streams from IPTV-org on Echo",
+    "iconUrl": "https://avatars.githubusercontent.com/u/55937028",
+    "updateUrl": "https://api.github.com/repos/m-tki/echo-iptv-extension/releases"
+  },
+  {
+    "id": "radio_browser",
+    "type": "music",
+    "name": "Radio Browser",
+    "subtitle": "Play radio from Radio Browser on Echo",
+    "iconUrl": "https://icons.duckduckgo.com/ip3/www.radio-browser.info.ico",
+    "updateUrl": "https://api.github.com/repos/m-tki/echo-radiobrowser-extension/releases"
+  },
+  {
     "id": "spotify",
     "type": "music",
     "name": "Spotify",
     "subtitle": "Play music from Spotify on Echo",
     "iconUrl": "https://files.catbox.moe/212opw.png",
     "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-spotify-extension/releases"
+  },
+  {
+    "id": "Tunein",
+    "type": "music",
+    "name": "TuneIn",
+    "subtitle": "Play radio from Tunein on Echo",
+    "iconUrl": "https://cms.tunein.com/wp-content/uploads/2021/11/AppTile_TuneIn.png",
+    "updateUrl": "https://api.github.com/repos/m-tki/echo-tunein-extension/releases"
   }
 ]
