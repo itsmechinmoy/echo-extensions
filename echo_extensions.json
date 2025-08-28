@@ -1,21 +1,5 @@
 [
   {
-    "id": "asmrone",
-    "type": "music",
-    "name": "AsmrOne",
-    "subtitle": "Play ASMR from AsmrOne on Echo",
-    "iconUrl": "https://i.imgur.com/CXQJEvA.png",
-    "updateUrl": "https://api.github.com/repos/rebelonion/echo-asmr-one/releases"
-  },
-  {
-    "id": "cineby",
-    "type": "music",
-    "name": "Cineby",
-    "subtitle": "Play movies and shows from Cineby on Echo",
-    "iconUrl": "https://www.cineby.app/logo.png",
-    "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-cineby-extension/releases"
-  },
-  {
     "id": "deezer",
     "type": "music",
     "name": "Deezer",
@@ -40,115 +24,11 @@
     "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-echodown-extension/releases"
   },
   {
-    "id": "echo-jellyfin",
-    "type": "music",
-    "name": "Jellyfin",
-    "subtitle": "Stream music from your Jellyfin server on Echo",
-    "iconUrl": "https://i.imgur.com/VFPYs2e.png",
-    "updateUrl": "https://api.github.com/repos/Secozzi/echo-jellyfin-extension/releases"
-  },
-  {
-    "id": "genius_lyrics",
-    "type": "lyrics",
-    "name": "Genius",
-    "subtitle": "View lyrics with Genius on Echo",
-    "iconUrl": "https://play-lh.googleusercontent.com/e6-dZlTM-gJ2sFxFFs3X15O84HEv6jc9PQGgHtVTn7FP6lUXeEAkDl9v4RfVOwbSuQ=w480-h960-rw",
-    "updateUrl": "https://api.github.com/repos/shub39/echo-genius-extension/releases"
-  },
-  {
-    "id": "iheartradio",
-    "type": "music",
-    "name": "iHeartRadio",
-    "subtitle": "Play music from iHeartRadio on Echo",
-    "iconUrl": "https://files.catbox.moe/52dxag.jpg",
-    "updateUrl": "https://api.github.com/repos/m-tki/echo-iheart-extension/releases"
-  },
-  {
-    "id": "iptv_org",
-    "type": "music",
-    "name": "IPTV-org",
-    "subtitle": "Watch IPTV streams from IPTV-org on Echo",
-    "iconUrl": "https://avatars.githubusercontent.com/u/55937028",
-    "updateUrl": "https://api.github.com/repos/m-tki/echo-iptv-extension/releases"
-  },
-  {
-    "id": "kugou_lyrics",
-    "type": "lyrics",
-    "name": "Kugou",
-    "subtitle": "View lyrics with Kugou on Echo",
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/KuGou_app_icon.png",
-    "updateUrl": "https://api.github.com/repos/shub39/echo-kugou-extension/releases"
-  },
-  {
-    "id": "lastfm",
-    "type": "tracker",
-    "name": "Lastfm",
-    "subtitle": "Sync the music you play on Echo with Lastfm",
-    "iconUrl": "https://i.imgur.com/ArKIJYv.png",
-    "updateUrl": "https://api.github.com/repos/rebelonion/echo-lastfm/releases"
-  },
-  {
-    "id": "lrclib_lyrics",
-    "type": "lyrics",
-    "name": "Lrclib",
-    "subtitle": "View lyrics with Lrclib on Echo",
-    "iconUrl": "https://lrclib.net/assets/lrclib-370c57eb.png",
-    "updateUrl": "https://api.github.com/repos/shub39/echo-lrclib-extension/releases"
-  },
-  {
-    "id": "lyricstranslator",
-    "type": "lyrics",
-    "name": "Lyrics Translator",
-    "subtitle": "Translate lyrics with Lyrics Translator on Echo",
-    "iconUrl": "https://i.imgur.com/Lv07pqy.png",
-    "updateUrl": "https://api.github.com/repos/rebelonion/echo-lyrics-translator/releases"
-  },
-  {
-    "id": "musixmatch_lyrics",
-    "type": "lyrics",
-    "name": "Musixmatch",
-    "subtitle": "View lyrics with Musixmatch on Echo",
-    "iconUrl": "https://files.catbox.moe/heyxop.jpg",
-    "updateUrl": "https://api.github.com/repos/shub39/echo-musixmatch-extension/releases"
-  },
-  {
-    "id": "nekoir",
-    "type": "music",
-    "name": "Nekoir",
-    "subtitle": "Play music from EchoirX on Echo",
-    "iconUrl": "http://nekomimi.tilde.team/pool/05/nekoir.png",
-    "updateUrl": "https://api.github.com/repos/NekoMimiOfficial/echo-nekoir-extension/releases"
-  },
-  {
-    "id": "radio_browser",
-    "type": "music",
-    "name": "Radio Browser",
-    "subtitle": "Play radio from Radio Browser on Echo",
-    "iconUrl": "https://icons.duckduckgo.com/ip3/www.radio-browser.info.ico",
-    "updateUrl": "https://api.github.com/repos/m-tki/echo-radiobrowser-extension/releases"
-  },
-  {
     "id": "spotify",
     "type": "music",
     "name": "Spotify",
     "subtitle": "Play music from Spotify on Echo",
     "iconUrl": "https://files.catbox.moe/212opw.png",
     "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-spotify-extension/releases"
-  },
-  {
-    "id": "Tunein",
-    "type": "music",
-    "name": "TuneIn",
-    "subtitle": "Play radio from Tunein on Echo",
-    "iconUrl": "https://cms.tunein.com/wp-content/uploads/2021/11/AppTile_TuneIn.png",
-    "updateUrl": "https://api.github.com/repos/m-tki/echo-tunein-extension/releases"
-  },
-  {
-    "id": "youtube-music",
-    "type": "music",
-    "name": "Youtube Music",
-    "subtitle": "Play music from Youtube on Echo",
-    "iconUrl": "https://music.youtube.com/img/favicon_144.png",
-    "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-youtube-extension/releases"
   }
 ]
