@@ -24,6 +24,14 @@
     "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-echodown-extension/releases"
   },
   {
+    "id": "genius_lyrics",
+    "type": "lyrics",
+    "name": "Genius",
+    "subtitle": "View lyrics with Genius on Echo",
+    "iconUrl": "https://play-lh.googleusercontent.com/e6-dZlTM-gJ2sFxFFs3X15O84HEv6jc9PQGgHtVTn7FP6lUXeEAkDl9v4RfVOwbSuQ=w480-h960-rw",
+    "updateUrl": "https://api.github.com/repos/shub39/echo-genius-extension/releases"
+  },
+  {
     "id": "iheartradio",
     "type": "music",
     "name": "iHeartRadio",
@@ -38,6 +46,30 @@
     "subtitle": "Watch IPTV streams from IPTV-org on Echo",
     "iconUrl": "https://avatars.githubusercontent.com/u/55937028",
     "updateUrl": "https://api.github.com/repos/m-tki/echo-iptv-extension/releases"
+  },
+  {
+    "id": "kugou_lyrics",
+    "type": "lyrics",
+    "name": "Kugou",
+    "subtitle": "View lyrics with Kugou on Echo",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/KuGou_app_icon.png",
+    "updateUrl": "https://api.github.com/repos/shub39/echo-kugou-extension/releases"
+  },
+  {
+    "id": "lrclib_lyrics",
+    "type": "lyrics",
+    "name": "Lrclib",
+    "subtitle": "View lyrics with Lrclib on Echo",
+    "iconUrl": "https://lrclib.net/assets/lrclib-370c57eb.png",
+    "updateUrl": "https://api.github.com/repos/shub39/echo-lrclib-extension/releases"
+  },
+  {
+    "id": "musixmatch_lyrics",
+    "type": "lyrics",
+    "name": "Musixmatch",
+    "subtitle": "View lyrics with Musixmatch on Echo",
+    "iconUrl": "https://files.catbox.moe/heyxop.jpg",
+    "updateUrl": "https://api.github.com/repos/shub39/echo-musixmatch-extension/releases"
   },
   {
     "id": "radio_browser",
