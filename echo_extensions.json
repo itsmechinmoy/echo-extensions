@@ -8,7 +8,7 @@
     "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-deezer-extension/releases"
   },
   {
-    "id": "discord-rpc",
+    "id": "discordrpc",
     "type": "tracker",
     "name": "Discord RPC",
     "subtitle": "Show the music you're listening to on Discord",
@@ -88,7 +88,7 @@
     "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-spotify-extension/releases"
   },
   {
-    "id": "Tunein",
+    "id": "tunein",
     "type": "music",
     "name": "TuneIn",
     "subtitle": "Play radio from Tunein on Echo",
