@@ -62,5 +62,13 @@
     "subtitle": "Play radio from Tunein on Echo",
     "iconUrl": "https://cms.tunein.com/wp-content/uploads/2021/11/AppTile_TuneIn.png",
     "updateUrl": "https://api.github.com/repos/m-tki/echo-tunein-extension/releases"
+  },
+  {
+    "id": "youtube-music",
+    "type": "music",
+    "name": "Youtube Music",
+    "subtitle": "Play music from Youtube on Echo",
+    "iconUrl": "https://music.youtube.com/img/favicon_144.png",
+    "updateUrl": "https://api.github.com/repos/Abhishek890/echo-youtube-extension/releases"
   }
 ]
