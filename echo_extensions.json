@@ -96,7 +96,7 @@
     "updateUrl": "https://api.github.com/repos/m-tki/echo-tunein-extension/releases"
   },
   {
-    "id": "youtube-music",
+    "id": "youtube_music",
     "type": "music",
     "name": "Youtube Music",
     "subtitle": "Play music from Youtube on Echo",
