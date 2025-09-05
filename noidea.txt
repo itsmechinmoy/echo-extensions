@@ -1,1 +1,1 @@
-[{"secret":"v+N71$r\\;@\"50{\"e~`G(w","version":38}]
+{"secret": "-J?jo6W1\\C0\"lXFI,O9g&", "version": 40}
