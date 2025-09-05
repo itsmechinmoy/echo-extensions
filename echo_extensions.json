@@ -56,12 +56,28 @@
     "updateUrl": "https://api.github.com/repos/shub39/echo-kugou-extension/releases"
   },
   {
+    "id": "lastfm",
+    "type": "tracker",
+    "name": "Lastfm",
+    "subtitle": "Sync the music you play on Echo with Lastfm",
+    "iconUrl": "https://i.imgur.com/ArKIJYv.png",
+    "updateUrl": "https://api.github.com/repos/rebelonion/echo-lastfm/releases"
+  },
+  {
     "id": "lrclib_lyrics",
     "type": "lyrics",
     "name": "Lrclib",
     "subtitle": "View lyrics with Lrclib on Echo",
     "iconUrl": "https://lrclib.net/assets/lrclib-370c57eb.png",
     "updateUrl": "https://api.github.com/repos/shub39/echo-lrclib-extension/releases"
+  },
+  {
+    "id": "lyricstranslator",
+    "type": "lyrics",
+    "name": "Lyrics Translator",
+    "subtitle": "Translate lyrics with Lyrics Translator on Echo",
+    "iconUrl": "https://i.imgur.com/Lv07pqy.png",
+    "updateUrl": "https://api.github.com/repos/rebelonion/echo-lyrics-translator/releases"
   },
   {
     "id": "musixmatch_lyrics",
