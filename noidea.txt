@@ -1,1 +1,4 @@
-{"secret": "-J?jo6W1\\C0\"lXFI,O9g&", "version": 40}
+{
+  "secret": "fSU;i`=/f7q%ZYD{;1m<c><",
+  "version": 41
+}
