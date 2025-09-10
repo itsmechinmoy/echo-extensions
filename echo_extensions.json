@@ -56,6 +56,14 @@
     "updateUrl": "https://api.github.com/repos/m-tki/echo-iptv-extension/releases"
   },
   {
+    "id": "echo-jellyfin",
+    "type": "music",
+    "name": "Jellyfin",
+    "subtitle": "Stream music from your Jellyfin server on Echo",
+    "iconUrl": "https://i.imgur.com/VFPYs2e.png",
+    "updateUrl": "https://api.github.com/repos/Secozzi/echo-jellyfin-extension/releases"
+  },
+  {
     "id": "kugou_lyrics",
     "type": "lyrics",
     "name": "Kugou",
