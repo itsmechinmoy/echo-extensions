@@ -1,5 +1,13 @@
 [
   {
+    "id": "asmrone",
+    "type": "music",
+    "name": "AsmrOne",
+    "subtitle": "Play ASMR from AsmrOne on Echo",
+    "iconUrl": "https://i.imgur.com/CXQJEvA.png",
+    "updateUrl": "https://api.github.com/repos/rebelonion/echo-asmr-one/releases"
+  },
+  {
     "id": "deezer",
     "type": "music",
     "name": "Deezer",
