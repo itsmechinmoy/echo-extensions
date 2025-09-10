@@ -1,4 +1,4 @@
 {
-  "secret": "=?Wd-?98rG``%xDzC=dBjnzL8lQ3m^$N",
-  "version": 42
+  "secret": "?H/Vf:g\\@+{--b7nx}*f",
+  "version": 43
 }
