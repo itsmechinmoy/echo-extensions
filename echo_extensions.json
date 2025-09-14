@@ -8,6 +8,14 @@
     "updateUrl": "https://api.github.com/repos/rebelonion/echo-asmr-one/releases"
   },
   {
+    "id": "dab_yeet",
+    "type": "music",
+    "name": "DAB Music",
+    "subtitle": "Play music from DAB Music on Echo",
+    "iconUrl": "https://raw.githubusercontent.com/BitFable/echo-dab-yeet-extension/refs/heads/image-branch/music.png",
+    "updateUrl": "https://api.github.com/repos/BitFable/echo-dab-yeet-extension/releases"
+  },
+  {
     "id": "deezer",
     "type": "music",
     "name": "Deezer",
