@@ -1,4 +1,4 @@
 {
-  "secret": "<]#4_Oj43D8Pq+S75c}M.",
-  "version": 48
+  "secret": "&*UT^e_KIrnIWGGgzq@oJPvjj\"V<|`]L",
+  "version": 49
 }
