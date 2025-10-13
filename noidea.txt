@@ -1,4 +1,4 @@
 {
-  "secret": ">E+/=GBFUBl-roA]2,ASM(\\:)(T$b!g/",
-  "version": 58
+  "secret": "{iOFn;4}<1PFYKPV?5{%u14]M>/V0hDH",
+  "version": 59
 }
