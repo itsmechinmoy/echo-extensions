@@ -48,6 +48,14 @@
     "updateUrl": "https://api.github.com/repos/shub39/echo-genius-extension/releases"
   },
   {
+    "id": "Groove_music",
+    "type": "music",
+    "name": "Groove Music",
+    "subtitle": "Play music from PagalWorld on Echo",
+    "iconUrl": "https://iili.io/Kk87QcB.png",
+    "updateUrl": "https://api.github.com/repos/Abhishek890/Groove-Extension/releases"
+  },
+  {
     "id": "iheartradio",
     "type": "music",
     "name": "iHeartRadio",
