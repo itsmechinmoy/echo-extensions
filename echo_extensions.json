@@ -56,6 +56,14 @@
     "updateUrl": "https://api.github.com/repos/Abhishek890/Groove-Extension/releases"
   },
   {
+    "id": "GoogleDrive_extension",
+    "type": "music",
+    "name": "Google Drive",
+    "subtitle": "Play music from Google Drive on Echo",
+    "iconUrl": "https://img.freepik.com/premium-vector/google-drive-logo-icon_1273375-833.jpg",
+    "updateUrl": "https://api.github.com/repos/Abhishek890/Echo-GoogleDrive/releases"
+  },
+  {
     "id": "iheartradio",
     "type": "music",
     "name": "iHeartRadio",
