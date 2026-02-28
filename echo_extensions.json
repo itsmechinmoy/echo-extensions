@@ -1,5 +1,13 @@
 [
   {
+    "id": "animekai",
+    "type": "misc",
+    "name": "AnimeKai",
+    "subtitle": "Watch anime series & movies from AnimeKai on Echo",
+    "iconUrl": "https://styles.redditmedia.com/t5_29o9bg/styles/communityIcon_9mzgu4mdd76f1.png?width=128&frame=1&auto=webp&s=5caf8c9592eeadbb4b4b47669547d00cb60fa802",
+    "updateUrl": "https://api.github.com/repos/ram22002/echo-extension-AnimeKai/releases"
+  },
+  {
     "id": "asmrone",
     "type": "music",
     "name": "AsmrOne",
@@ -32,6 +40,14 @@
     "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-discord/releases"
   },
   {
+    "id": "echo-jellyfin",
+    "type": "music",
+    "name": "Jellyfin",
+    "subtitle": "Stream music from your Jellyfin server on Echo",
+    "iconUrl": "https://i.imgur.com/VFPYs2e.png",
+    "updateUrl": "https://api.github.com/repos/Secozzi/echo-jellyfin-extension/releases"
+  },
+  {
     "id": "echodown",
     "type": "misc",
     "name": "Downloader",
@@ -48,20 +64,20 @@
     "updateUrl": "https://api.github.com/repos/shub39/echo-genius-extension/releases"
   },
   {
-    "id": "Groove_music",
-    "type": "music",
-    "name": "Groove Music",
-    "subtitle": "Play music from PagalWorld on Echo",
-    "iconUrl": "https://iili.io/Kk87QcB.png",
-    "updateUrl": "https://api.github.com/repos/Abhishek890/Groove-Extension/releases"
-  },
-  {
     "id": "GoogleDrive_extension",
     "type": "music",
     "name": "Google Drive",
     "subtitle": "Play music from Google Drive on Echo",
     "iconUrl": "https://img.freepik.com/premium-vector/google-drive-logo-icon_1273375-833.jpg",
     "updateUrl": "https://api.github.com/repos/Abhishek890/Echo-GoogleDrive/releases"
+  },
+  {
+    "id": "Groove_music",
+    "type": "music",
+    "name": "Groove Music",
+    "subtitle": "Play music from PagalWorld on Echo",
+    "iconUrl": "https://iili.io/Kk87QcB.png",
+    "updateUrl": "https://api.github.com/repos/Abhishek890/Groove-Extension/releases"
   },
   {
     "id": "iheartradio",
@@ -78,14 +94,6 @@
     "subtitle": "Watch IPTV streams from IPTV-org on Echo",
     "iconUrl": "https://avatars.githubusercontent.com/u/55937028",
     "updateUrl": "https://api.github.com/repos/m-tki/echo-iptv-extension/releases"
-  },
-  {
-    "id": "echo-jellyfin",
-    "type": "music",
-    "name": "Jellyfin",
-    "subtitle": "Stream music from your Jellyfin server on Echo",
-    "iconUrl": "https://i.imgur.com/VFPYs2e.png",
-    "updateUrl": "https://api.github.com/repos/Secozzi/echo-jellyfin-extension/releases"
   },
   {
     "id": "kugou_lyrics",
