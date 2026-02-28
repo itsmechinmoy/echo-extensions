@@ -1,19 +1,19 @@
 [
   {
-    "id": "animekai",
-    "type": "misc",
-    "name": "AnimeKai",
-    "subtitle": "Watch anime series & movies from AnimeKai on Echo",
-    "iconUrl": "https://styles.redditmedia.com/t5_29o9bg/styles/communityIcon_9mzgu4mdd76f1.png?width=128&frame=1&auto=webp&s=5caf8c9592eeadbb4b4b47669547d00cb60fa802",
-    "updateUrl": "https://api.github.com/repos/ram22002/echo-extension-AnimeKai/releases"
-  },
-  {
     "id": "asmrone",
     "type": "music",
     "name": "AsmrOne",
     "subtitle": "Play ASMR from AsmrOne on Echo",
     "iconUrl": "https://i.imgur.com/CXQJEvA.png",
     "updateUrl": "https://api.github.com/repos/rebelonion/echo-asmr-one/releases"
+  },
+  {
+    "id": "animekai",
+    "type": "misc",
+    "name": "AnimeKai",
+    "subtitle": "Watch anime series & movies from AnimeKai on Echo",
+    "iconUrl": "https://styles.redditmedia.com/t5_29o9bg/styles/communityIcon_9mzgu4mdd76f1.png?width=128&frame=1&auto=webp&s=5caf8c9592eeadbb4b4b47669547d00cb60fa802",
+    "updateUrl": "https://api.github.com/repos/ram22002/echo-extension-AnimeKai/releases"
   },
   {
     "id": "dab_yeet",
@@ -40,20 +40,20 @@
     "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-discord/releases"
   },
   {
-    "id": "echo-jellyfin",
-    "type": "music",
-    "name": "Jellyfin",
-    "subtitle": "Stream music from your Jellyfin server on Echo",
-    "iconUrl": "https://i.imgur.com/VFPYs2e.png",
-    "updateUrl": "https://api.github.com/repos/Secozzi/echo-jellyfin-extension/releases"
-  },
-  {
     "id": "echodown",
     "type": "misc",
     "name": "Downloader",
     "subtitle": "Download your music with Echo",
     "iconUrl": "https://cdn-images.dzcdn.net/images/cover/00e78b6d932527f79d2df3f4f694510b/264x264-000000-80-0-0.jpg",
     "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-echodown-extension/releases"
+  },
+  {
+    "id": "echo-jellyfin",
+    "type": "music",
+    "name": "Jellyfin",
+    "subtitle": "Stream music from your Jellyfin server on Echo",
+    "iconUrl": "https://i.imgur.com/VFPYs2e.png",
+    "updateUrl": "https://api.github.com/repos/Secozzi/echo-jellyfin-extension/releases"
   },
   {
     "id": "genius_lyrics",
