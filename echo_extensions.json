@@ -16,6 +16,14 @@
     "updateUrl": "https://api.github.com/repos/ram22002/echo-extension-AnimeKai/releases"
   },
   {
+    "id": "applemusic_lyrics",
+    "type": "lyrics",
+    "name": "Apple Music",
+    "subtitle": "Apple Music lyrics for Echo",
+    "iconUrl": "https://music.apple.com/assets/favicon/favicon-180.png",
+    "updateUrl": "https://api.github.com/repos/ancientcatz/echo-apple-music-extension/releases"
+  },
+  {
     "id": "dab_yeet",
     "type": "music",
     "name": "DAB Music",
