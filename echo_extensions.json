@@ -24,6 +24,14 @@
     "updateUrl": "https://api.github.com/repos/ancientcatz/echo-apple-music-extension/releases"
   },
   {
+    "id": "echo_combine",
+    "type": "music",
+    "name": "Combine Extension",
+    "subtitle": "Combine metadata and audio from multiple extensions on Echo",
+    "iconUrl": "",
+    "updateUrl": "https://api.github.com/repos/dutixlf/echo-combine-extension/releases"
+  },
+  {
     "id": "dab_yeet",
     "type": "music",
     "name": "DAB Music",
