@@ -1,13 +1,5 @@
 [
   {
-    "id": "asmrone",
-    "type": "music",
-    "name": "AsmrOne",
-    "subtitle": "Play ASMR from AsmrOne on Echo",
-    "iconUrl": "https://i.imgur.com/CXQJEvA.png",
-    "updateUrl": "https://api.github.com/repos/rebelonion/echo-asmr-one/releases"
-  },
-  {
     "id": "animekai",
     "type": "misc",
     "name": "AnimeKai",
@@ -22,6 +14,14 @@
     "subtitle": "Apple Music lyrics for Echo",
     "iconUrl": "https://music.apple.com/assets/favicon/favicon-180.png",
     "updateUrl": "https://api.github.com/repos/ancientcatz/echo-apple-music-extension/releases"
+  },
+  {
+    "id": "asmrone",
+    "type": "music",
+    "name": "AsmrOne",
+    "subtitle": "Play ASMR from AsmrOne on Echo",
+    "iconUrl": "https://i.imgur.com/CXQJEvA.png",
+    "updateUrl": "https://api.github.com/repos/rebelonion/echo-asmr-one/releases"
   },
   {
     "id": "echo_combine",
@@ -166,6 +166,14 @@
     "subtitle": "Play music from Saavn on Echo",
     "iconUrl": "https://files.catbox.moe/bjxrke.png",
     "updateUrl": "https://api.github.com/repos/Abhishek890/Echo-Saavn-Extension/releases"
+  },
+  {
+    "id": "soundcloud",
+    "type": "music",
+    "name": "SoundCloud",
+    "subtitle": "Play music from SoundCloud on Echo",
+    "iconUrl": "https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14bdb.ico",
+    "updateUrl": "https://api.github.com/repos/rexontop/soundcloud-echo-extension/releases"
   },
   {
     "id": "spotify",
