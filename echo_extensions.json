@@ -1,13 +1,5 @@
 [
   {
-    "id": "animekai",
-    "type": "misc",
-    "name": "AnimeKai",
-    "subtitle": "Watch anime series & movies from AnimeKai on Echo",
-    "iconUrl": "https://styles.redditmedia.com/t5_29o9bg/styles/communityIcon_9mzgu4mdd76f1.png?width=128&frame=1&auto=webp&s=5caf8c9592eeadbb4b4b47669547d00cb60fa802",
-    "updateUrl": "https://api.github.com/repos/ram22002/echo-extension-AnimeKai/releases"
-  },
-  {
     "id": "applemusic_lyrics",
     "type": "lyrics",
     "name": "Apple Music",
