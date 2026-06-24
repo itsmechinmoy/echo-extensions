@@ -16,6 +16,14 @@
     "updateUrl": "https://api.github.com/repos/rebelonion/echo-asmr-one/releases"
   },
   {
+    "id": "artistgrid",
+    "type": "music",
+    "name": "ArtistGrid",
+    "subtitle": "ArtistGrid Extension for Echo.",
+    "iconUrl": "https://artistgrid.cx/favicon.svg",
+    "updateUrl": "https://github.com/kadirmetin/echo-artistgrid-extension/releases"
+  },
+  {
     "id": "echo_combine",
     "type": "music",
     "name": "Combine Extension",
