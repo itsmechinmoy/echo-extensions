@@ -1,4 +1,4 @@
 {
-  "secret": "BQAVGzW5hk92rfksbWRAgma6nB-QrhKFS9WMtRvhWM4DWY6yTKsw_zsrDnR8ofBXVBOvlBKXggFSkexm30jW-r5IKYujBNODQABwDhFU3NHYD7HiN2ttDQTgE37fqXIvcJOL0xkLfhhA",
-  "version": 159
+  "secret": "BQDY6v3L5CruOE0IaRjpqvji2x7JcKY15cnJtfzZ18ijXvx8dSaMke9bjg4elJqjTlzPe9dYa3eKyiuxjWpCUGeneH6uyxbsRrS0DvpzP1cslajZmLKnwzuaSBU1ztc501h3ZirvfVB2",
+  "version": 160
 }
