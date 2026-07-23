@@ -5,6 +5,7 @@
     "name": "Apple Music",
     "subtitle": "Apple Music lyrics for Echo",
     "iconUrl": "https://music.apple.com/assets/favicon/favicon-180.png",
+    "url": "https://music.apple.com",
     "updateUrl": "https://api.github.com/repos/ancientcatz/echo-apple-music-extension/releases"
   },
   {
@@ -13,6 +14,7 @@
     "name": "AsmrOne",
     "subtitle": "Play ASMR from AsmrOne on Echo",
     "iconUrl": "https://i.imgur.com/CXQJEvA.png",
+    "url": "https://asmr.one",
     "updateUrl": "https://api.github.com/repos/rebelonion/echo-asmr-one/releases"
   },
   {
@@ -21,6 +23,7 @@
     "name": "ArtistGrid",
     "subtitle": "ArtistGrid Extension for Echo.",
     "iconUrl": "https://artistgrid.cx/favicon.svg",
+    "url": "https://artistgrid.cx",
     "updateUrl": "https://api.github.com/repos/kadirmetin/echo-artistgrid-extension/releases"
   },
   {
@@ -29,6 +32,7 @@
     "name": "Combine Extension",
     "subtitle": "Combine metadata and audio from multiple extensions on Echo",
     "iconUrl": "",
+    "url": "https://github.com/dutixlf/echo-combine-extension",
     "updateUrl": "https://api.github.com/repos/dutixlf/echo-combine-extension/releases"
   },
   {
@@ -37,6 +41,7 @@
     "name": "Deezer",
     "subtitle": "Play music from Deezer on Echo",
     "iconUrl": "https://e-cdn-files.dzcdn.net/cache/images/common/favicon/favicon-240x240.bb3a6a29ad16a77f10cb.png",
+    "url": "https://www.deezer.com",
     "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-deezer-extension/releases"
   },
   {
@@ -45,6 +50,7 @@
     "name": "Discord RPC",
     "subtitle": "Show the music you're listening to on Discord",
     "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_lBFnWS0XsOc_PbUCpWpTTUtcUa3CJNO8oXqrjnc9IA_A4=s176-c-k-c0x00ffffff-no-rj-mo",
+    "url": "https://discord.com",
     "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-discord/releases"
   },
   {
@@ -53,6 +59,7 @@
     "name": "Downloader",
     "subtitle": "Download your music with Echo",
     "iconUrl": "https://cdn-images.dzcdn.net/images/cover/00e78b6d932527f79d2df3f4f694510b/264x264-000000-80-0-0.jpg",
+    "url": "https://github.com/LuftVerbot/echo-echodown-extension",
     "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-echodown-extension/releases"
   },
   {
@@ -61,6 +68,7 @@
     "name": "Jellyfin",
     "subtitle": "Stream music from your Jellyfin server on Echo",
     "iconUrl": "https://i.imgur.com/VFPYs2e.png",
+    "url": "https://jellyfin.org",
     "updateUrl": "https://api.github.com/repos/Secozzi/echo-jellyfin-extension/releases"
   },
   {
@@ -69,6 +77,7 @@
     "name": "Genius",
     "subtitle": "View lyrics with Genius on Echo",
     "iconUrl": "https://play-lh.googleusercontent.com/e6-dZlTM-gJ2sFxFFs3X15O84HEv6jc9PQGgHtVTn7FP6lUXeEAkDl9v4RfVOwbSuQ=w480-h960-rw",
+    "url": "https://genius.com",
     "updateUrl": "https://api.github.com/repos/shub39/echo-genius-extension/releases"
   },
   {
@@ -77,6 +86,7 @@
     "name": "Google Drive",
     "subtitle": "Play music from Google Drive on Echo",
     "iconUrl": "https://img.freepik.com/premium-vector/google-drive-logo-icon_1273375-833.jpg",
+    "url": "https://drive.google.com",
     "updateUrl": "https://api.github.com/repos/Abhishek890/Echo-GoogleDrive/releases"
   },
   {
@@ -85,6 +95,7 @@
     "name": "Groove Music",
     "subtitle": "Play music from PagalWorld on Echo",
     "iconUrl": "https://iili.io/Kk87QcB.png",
+    "url": "https://www.pagalworld.com.co",
     "updateUrl": "https://api.github.com/repos/Abhishek890/Groove-Extension/releases"
   },
   {
@@ -93,6 +104,7 @@
     "name": "iHeartRadio",
     "subtitle": "Play music from iHeartRadio on Echo",
     "iconUrl": "https://files.catbox.moe/52dxag.jpg",
+    "url": "https://www.iheart.com",
     "updateUrl": "https://api.github.com/repos/m-tki/echo-iheart-extension/releases"
   },
   {
@@ -101,6 +113,7 @@
     "name": "IPTV-org",
     "subtitle": "Watch IPTV streams from IPTV-org on Echo",
     "iconUrl": "https://avatars.githubusercontent.com/u/55937028",
+    "url": "https://iptv-org.github.io/iptv",
     "updateUrl": "https://api.github.com/repos/m-tki/echo-iptv-extension/releases"
   },
   {
@@ -109,6 +122,7 @@
     "name": "Kugou",
     "subtitle": "View lyrics with Kugou on Echo",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/KuGou_app_icon.png",
+    "url": "https://www.kugou.com",
     "updateUrl": "https://api.github.com/repos/shub39/echo-kugou-extension/releases"
   },
   {
@@ -117,6 +131,7 @@
     "name": "Lastfm",
     "subtitle": "Sync the music you play on Echo with Lastfm",
     "iconUrl": "https://i.imgur.com/ArKIJYv.png",
+    "url": "https://www.last.fm",
     "updateUrl": "https://api.github.com/repos/rebelonion/echo-lastfm/releases"
   },
   {
@@ -125,6 +140,7 @@
     "name": "Lrclib",
     "subtitle": "View lyrics with Lrclib on Echo",
     "iconUrl": "https://lrclib.net/assets/lrclib-370c57eb.png",
+    "url": "https://lrclib.net",
     "updateUrl": "https://api.github.com/repos/shub39/echo-lrclib-extension/releases"
   },
   {
@@ -133,6 +149,7 @@
     "name": "Lyrics Translator",
     "subtitle": "Translate lyrics with Lyrics Translator on Echo",
     "iconUrl": "https://i.imgur.com/Lv07pqy.png",
+    "url": "https://github.com/rebelonion/echo-lyrics-translator",
     "updateUrl": "https://api.github.com/repos/rebelonion/echo-lyrics-translator/releases"
   },
   {
@@ -141,6 +158,7 @@
     "name": "Musixmatch",
     "subtitle": "View lyrics with Musixmatch on Echo",
     "iconUrl": "https://files.catbox.moe/heyxop.jpg",
+    "url": "https://www.musixmatch.com",
     "updateUrl": "https://api.github.com/repos/shub39/echo-musixmatch-extension/releases"
   },
   {
@@ -149,6 +167,7 @@
     "name": "Radio Browser",
     "subtitle": "Play radio from Radio Browser on Echo",
     "iconUrl": "https://icons.duckduckgo.com/ip3/www.radio-browser.info.ico",
+    "url": "https://www.radio-browser.info",
     "updateUrl": "https://api.github.com/repos/m-tki/echo-radiobrowser-extension/releases"
   },
   {
@@ -156,7 +175,8 @@
     "type": "music",
     "name": "Saavn",
     "subtitle": "Play music from Saavn on Echo",
-    "iconUrl": "https://files.catbox.moe/bjxrke.png",
+    "iconUrl": "https://logo.clearbit.com/jiosaavn.com",
+    "url": "https://www.jiosaavn.com",
     "updateUrl": "https://api.github.com/repos/Abhishek890/Echo-Saavn-Extension/releases"
   },
   {
@@ -165,6 +185,7 @@
     "name": "SoundCloud",
     "subtitle": "Play music from SoundCloud on Echo",
     "iconUrl": "https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14bdb.ico",
+    "url": "https://soundcloud.com",
     "updateUrl": "https://api.github.com/repos/rexontop/soundcloud-echo-extension/releases"
   },
   {
@@ -173,6 +194,7 @@
     "name": "Spotify",
     "subtitle": "Play music from Spotify on Echo",
     "iconUrl": "https://files.catbox.moe/212opw.png",
+    "url": "https://www.spotify.com",
     "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-spotify-extension/releases"
   },
   {
@@ -181,6 +203,7 @@
     "name": "TuneIn",
     "subtitle": "Play radio from Tunein on Echo",
     "iconUrl": "https://cms.tunein.com/wp-content/uploads/2021/11/AppTile_TuneIn.png",
+    "url": "https://tunein.com",
     "updateUrl": "https://api.github.com/repos/m-tki/echo-tunein-extension/releases"
   },
   {
@@ -189,6 +212,7 @@
     "name": "Youtube Music",
     "subtitle": "Play music from Youtube on Echo",
     "iconUrl": "https://music.youtube.com/img/favicon_144.png",
+    "url": "https://music.youtube.com",
     "updateUrl": "https://api.github.com/repos/Abhishek890/Eco-Youtube_Music/releases"
   }
 ]
