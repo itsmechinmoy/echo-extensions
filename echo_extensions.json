@@ -22,7 +22,7 @@
     "type": "music",
     "name": "ArtistGrid",
     "subtitle": "ArtistGrid Extension for Echo.",
-    "iconUrl": "https://artistgrid.cx/favicon.svg",
+    "iconUrl": "https://files.catbox.moe/bhzgod.png",
     "url": "https://artistgrid.cx",
     "updateUrl": "https://api.github.com/repos/kadirmetin/echo-artistgrid-extension/releases"
   },
@@ -31,7 +31,7 @@
     "type": "music",
     "name": "Combine Extension",
     "subtitle": "Combine metadata and audio from multiple extensions on Echo",
-    "iconUrl": "",
+    "iconUrl": "https://static.thenounproject.com/png/combine-icon-221555-512.png",
     "url": "https://github.com/dutixlf/echo-combine-extension",
     "updateUrl": "https://api.github.com/repos/dutixlf/echo-combine-extension/releases"
   },
@@ -69,7 +69,7 @@
     "subtitle": "Stream music from your Jellyfin server on Echo",
     "iconUrl": "https://i.imgur.com/VFPYs2e.png",
     "url": "https://jellyfin.org",
-    "updateUrl": "https://api.github.com/repos/Secozzi/echo-jellyfin-extension/releases"
+    "updateUrl": "https://gitlab.com/api/v4/projects/Secozzi%2Fecho-jellyfin-extension/releases/permalink/latest"
   },
   {
     "id": "genius_lyrics",
@@ -175,7 +175,7 @@
     "type": "music",
     "name": "Saavn",
     "subtitle": "Play music from Saavn on Echo",
-    "iconUrl": "https://logo.clearbit.com/jiosaavn.com",
+    "iconUrl": "https://files.catbox.moe/7ix5d3.png",
     "url": "https://www.jiosaavn.com",
     "updateUrl": "https://api.github.com/repos/Abhishek890/Echo-Saavn-Extension/releases"
   },
