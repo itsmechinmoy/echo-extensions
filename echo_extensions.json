@@ -31,7 +31,7 @@
     "type": "music",
     "name": "Combine Extension",
     "subtitle": "Combine metadata and audio from multiple extensions on Echo",
-    "iconUrl": "https://static.thenounproject.com/png/combine-icon-221555-512.png",
+    "iconUrl": "https://files.catbox.moe/li52rq.jpg",
     "url": "https://github.com/dutixlf/echo-combine-extension",
     "updateUrl": "https://api.github.com/repos/dutixlf/echo-combine-extension/releases"
   },
