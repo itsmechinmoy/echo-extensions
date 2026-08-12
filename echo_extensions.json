@@ -162,6 +162,15 @@
     "updateUrl": "https://api.github.com/repos/shub39/echo-musixmatch-extension/releases"
   },
   {
+    "id": "opensubsonic"
+    "type": "music",
+    "name": "OpenSubsonic",
+    "subtitle": "Play music from your OpenSubsonic server on Echo"
+    "iconUrl": "https://avatars.githubusercontent.com/u/125784570"
+    "url": "https://opensubsonic.netlify.app"
+    "updateUrl": "https://api.github.com/repos/Sturdy7435/echo-opensubsonic-extension/releases"
+  },
+  {
     "id": "radio_browser",
     "type": "music",
     "name": "Radio Browser",
