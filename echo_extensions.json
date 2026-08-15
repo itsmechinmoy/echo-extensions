@@ -120,7 +120,7 @@
     "id": "khinsider",
     "type": "music",
     "name": "Khinsider",
-    "subtitle": "Colonne sonore di videogiochi da khinsider (mirror squid.wtf)",
+    "subtitle": "Play music from Khinsider on Echo",
     "iconUrl": "https://github.com/zippatias/echo-khinsider-extension/blob/main/icon.png?raw=true",
     "url": "https://github.com/zippatias/echo-khinsider-extension",
     "updateUrl": "https://api.github.com/repos/zippatias/echo-khinsider-extension/releases"
