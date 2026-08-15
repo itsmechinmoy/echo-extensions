@@ -117,6 +117,15 @@
     "updateUrl": "https://api.github.com/repos/m-tki/echo-iptv-extension/releases"
   },
   {
+    "id": "khinsider",
+    "type": "music",
+    "name": "Khinsider",
+    "subtitle": "Colonne sonore di videogiochi da khinsider (mirror squid.wtf)",
+    "iconUrl": "https://github.com/zippatias/echo-khinsider-extension/blob/main/icon.png?raw=true",
+    "url": "https://github.com/zippatias/echo-khinsider-extension",
+    "updateUrl": "https://api.github.com/repos/zippatias/echo-khinsider-extension/releases"
+  },
+  {
     "id": "kugou_lyrics",
     "type": "lyrics",
     "name": "Kugou",
