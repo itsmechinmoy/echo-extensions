@@ -36,15 +36,6 @@
     "updateUrl": "https://api.github.com/repos/kadirmetin/echo-artistgrid-extension/releases"
   },
   {
-    "id": "echo_combine",
-    "type": "music",
-    "name": "Combine Extension",
-    "subtitle": "Combine metadata and audio from multiple extensions on Echo",
-    "iconUrl": "https://files.catbox.moe/li52rq.jpg",
-    "url": "https://github.com/dutixlf/echo-combine-extension",
-    "updateUrl": "https://api.github.com/repos/dutixlf/echo-combine-extension/releases"
-  },
-  {
     "id": "deezer",
     "type": "music",
     "name": "Deezer",
@@ -63,15 +54,6 @@
     "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-discord/releases"
   },
   {
-    "id": "echodown",
-    "type": "misc",
-    "name": "Downloader",
-    "subtitle": "Download your music with Echo",
-    "iconUrl": "https://cdn-images.dzcdn.net/images/cover/00e78b6d932527f79d2df3f4f694510b/264x264-000000-80-0-0.jpg",
-    "url": "https://github.com/LuftVerbot/echo-echodown-extension",
-    "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-echodown-extension/releases"
-  },
-  {
     "id": "echo-jellyfin",
     "type": "music",
     "name": "Jellyfin",
@@ -79,6 +61,24 @@
     "iconUrl": "https://i.imgur.com/VFPYs2e.png",
     "url": "https://jellyfin.org",
     "updateUrl": "https://gitlab.com/api/v4/projects/Secozzi%2Fecho-jellyfin-extension/releases/permalink/latest"
+  },
+  {
+    "id": "echo_combine",
+    "type": "music",
+    "name": "Combine Extension",
+    "subtitle": "Combine metadata and audio from multiple extensions on Echo",
+    "iconUrl": "https://files.catbox.moe/li52rq.jpg",
+    "url": "https://github.com/dutixlf/echo-combine-extension",
+    "updateUrl": "https://api.github.com/repos/dutixlf/echo-combine-extension/releases"
+  },
+  {
+    "id": "echodown",
+    "type": "misc",
+    "name": "Downloader",
+    "subtitle": "Download your music with Echo",
+    "iconUrl": "https://cdn-images.dzcdn.net/images/cover/00e78b6d932527f79d2df3f4f694510b/264x264-000000-80-0-0.jpg",
+    "url": "https://github.com/LuftVerbot/echo-echodown-extension",
+    "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-echodown-extension/releases"
   },
   {
     "id": "genius_lyrics",
@@ -133,6 +133,15 @@
     "iconUrl": "https://github.com/zippatias/echo-khinsider-extension/blob/main/icon.png?raw=true",
     "url": "https://github.com/zippatias/echo-khinsider-extension",
     "updateUrl": "https://api.github.com/repos/zippatias/echo-khinsider-extension/releases"
+  },
+  {
+    "id": "kisskh",
+    "type": "music",
+    "name": "KissKH",
+    "subtitle": "Stream Anime, TV Shows & Movies from KissKH on Echo",
+    "iconUrl": "https://kisskh.ovh/favicon.ico",
+    "url": "https://kisskh.ovh/",
+    "updateUrl": "https://api.github.com/repos/itsmechinmoy/echo-kisskh/releases"
   },
   {
     "id": "kugou_lyrics",
