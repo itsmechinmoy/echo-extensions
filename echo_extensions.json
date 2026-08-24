@@ -222,7 +222,7 @@
     "subtitle": "Play music from SoundCloud on Echo",
     "iconUrl": "https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14bdb.ico",
     "url": "https://soundcloud.com",
-    "updateUrl": "https://api.github.com/repos/muadogmatem/soundcloud-echo-extension/releases"
+    "updateUrl": "https://api.github.com/repos/rexontop/soundcloud-echo-extension/releases"
   },
   {
     "id": "spotify",
