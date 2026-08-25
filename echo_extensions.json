@@ -9,6 +9,15 @@
     "updateUrl": "https://api.github.com/repos/itsmechinmoy/echo-anidb/releases"
   },
   {
+    "id": "anikoto",
+    "type": "music",
+    "name": "Anikoto",
+    "subtitle": "Stream anime from Anikoto on Echo",
+    "iconUrl": "https://anikototv.to/favicon.ico",
+    "url": "https://anikototv.to",
+    "updateUrl": "https://api.github.com/repos/itsmechinmoy/echo-anikoto/releases"
+  },
+  {
     "id": "applemusic_lyrics",
     "type": "lyrics",
     "name": "Apple Music",
@@ -18,15 +27,6 @@
     "updateUrl": "https://api.github.com/repos/ancientcatz/echo-apple-music-extension/releases"
   },
   {
-    "id": "asmrone",
-    "type": "music",
-    "name": "AsmrOne",
-    "subtitle": "Play ASMR from AsmrOne on Echo",
-    "iconUrl": "https://i.imgur.com/CXQJEvA.png",
-    "url": "https://asmr.one",
-    "updateUrl": "https://api.github.com/repos/rebelonion/echo-asmr-one/releases"
-  },
-  {
     "id": "artistgrid",
     "type": "music",
     "name": "ArtistGrid",
@@ -34,6 +34,15 @@
     "iconUrl": "https://files.catbox.moe/bhzgod.png",
     "url": "https://artistgrid.cx",
     "updateUrl": "https://api.github.com/repos/kadirmetin/echo-artistgrid-extension/releases"
+  },
+  {
+    "id": "asmrone",
+    "type": "music",
+    "name": "AsmrOne",
+    "subtitle": "Play ASMR from AsmrOne on Echo",
+    "iconUrl": "https://i.imgur.com/CXQJEvA.png",
+    "url": "https://asmr.one",
+    "updateUrl": "https://api.github.com/repos/rebelonion/echo-asmr-one/releases"
   },
   {
     "id": "echo_combine",
@@ -70,15 +79,6 @@
     "iconUrl": "https://cdn-images.dzcdn.net/images/cover/00e78b6d932527f79d2df3f4f694510b/264x264-000000-80-0-0.jpg",
     "url": "https://github.com/LuftVerbot/echo-echodown-extension",
     "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-echodown-extension/releases"
-  },
-  {
-    "id": "echo-jellyfin",
-    "type": "music",
-    "name": "Jellyfin",
-    "subtitle": "Stream music from your Jellyfin server on Echo",
-    "iconUrl": "https://i.imgur.com/VFPYs2e.png",
-    "url": "https://jellyfin.org",
-    "updateUrl": "https://gitlab.com/api/v4/projects/Secozzi%2Fecho-jellyfin-extension/releases/permalink/latest"
   },
   {
     "id": "genius_lyrics",
@@ -124,6 +124,15 @@
     "iconUrl": "https://avatars.githubusercontent.com/u/55937028",
     "url": "https://iptv-org.github.io/iptv",
     "updateUrl": "https://api.github.com/repos/m-tki/echo-iptv-extension/releases"
+  },
+  {
+    "id": "echo-jellyfin",
+    "type": "music",
+    "name": "Jellyfin",
+    "subtitle": "Stream music from your Jellyfin server on Echo",
+    "iconUrl": "https://i.imgur.com/VFPYs2e.png",
+    "url": "https://jellyfin.org",
+    "updateUrl": "https://gitlab.com/api/v4/projects/Secozzi%2Fecho-jellyfin-extension/releases/permalink/latest"
   },
   {
     "id": "khinsider",
