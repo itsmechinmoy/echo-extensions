@@ -1,14 +1,5 @@
 [
   {
-    "id": "anidb",
-    "type": "music",
-    "name": "AniDB",
-    "subtitle": "Stream anime from AniDB on Echo",
-    "iconUrl": "https://anidb.app/images/fav-512.png",
-    "url": "https://anidb.app/",
-    "updateUrl": "https://api.github.com/repos/itsmechinmoy/echo-anidb/releases"
-  },
-  {
     "id": "anikoto",
     "type": "music",
     "name": "Anikoto",
