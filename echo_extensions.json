@@ -234,6 +234,15 @@
     "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-spotify-extension/releases"
   },
   {
+    "id": "torrentio",
+    "type": "music",
+    "name": "Torrentio",
+    "subtitle": "Stream Anime, Movies, and TV Series via Torrentio torrents and Debrid providers.",
+    "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
+    "url": "https://torrentio.strem.fun",
+    "updateUrl": "https://api.github.com/repos/itsmechinmoy/echo-torrentio/releases"
+  },
+  {
     "id": "tunein",
     "type": "music",
     "name": "TuneIn",
