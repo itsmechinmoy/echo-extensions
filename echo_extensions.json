@@ -195,7 +195,7 @@
     "subtitle": "Play music from your OpenSubsonic server on Echo",
     "iconUrl": "https://avatars.githubusercontent.com/u/125784570",
     "url": "https://opensubsonic.netlify.app",
-    "updateUrl": "https://api.github.com/repos/Sturdy7435/echo-opensubsonic-extension/releases"
+    "updateUrl": "https://api.github.com/repos/ArjixWasTaken/echo-opensubsonic-extension/releases"
   },
   {
     "id": "radio_browser",
