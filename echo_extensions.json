@@ -4,8 +4,8 @@
     "type": "music",
     "name": "AniDB",
     "subtitle": "Stream anime from AniDB on Echo",
-    "iconUrl": "https://anidb.app/images/fav-512.png",
-    "url": "https://anidb.app/",
+    "iconUrl": "https://anilab2.amdapi.click/images/fav-512.png",
+    "url": "https://anilab2.amdapi.click",
     "updateUrl": "https://api.github.com/repos/itsmechinmoy/echo-anidb/releases"
   },
   {
