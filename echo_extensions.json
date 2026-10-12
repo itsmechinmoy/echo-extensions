@@ -20,7 +20,7 @@
   {
     "id": "applemusic_lyrics",
     "type": "lyrics",
-    "name": "Apple Music",
+    "name": "Apple Music (Lyrics)",
     "subtitle": "Apple Music lyrics for Echo",
     "iconUrl": "https://music.apple.com/assets/favicon/favicon-180.png",
     "url": "https://music.apple.com",
