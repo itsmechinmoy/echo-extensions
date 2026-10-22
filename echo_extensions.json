@@ -81,6 +81,15 @@
     "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-echodown-extension/releases/latest"
   },
   {
+    "id": "filen_ext",
+    "type": "music",
+    "name": "Filen",
+    "subtitle": "Play music from Filen Cloud Storage on Echo",
+    "iconUrl": "https://raw.githubusercontent.com/FilenCloudDienste/filen-ts/main/packages/filen-mobile/src/assets/images/icon-light.png",
+    "url": "https://github.com/Gheovgos/Filen-Echo-Extension",
+    "updateUrl": "https://api.github.com/repos/Gheovgos/Filen-Echo-Extension/releases/latest"
+  },
+  {
     "id": "genius_lyrics",
     "type": "lyrics",
     "name": "Genius",
