@@ -180,6 +180,15 @@
     "updateUrl": "https://api.github.com/repos/rebelonion/echo-lastfm/releases/latest"
   },
   {
+    "id": "listenbrainz_ext",
+    "type": "tracker",
+    "name": "ListenBrainz",
+    "subtitle": "ListenBrainz tracker for Echo Music Player",
+    "iconUrl": "https://raw.githubusercontent.com/metabrainz/metabrainz-logos/master/logos/ListenBrainz/PNG/ListenBrainz_logo_no_text.png",
+    "url": "https://github.com/Gheovgos/listenbrainz-tracker-extension",
+    "updateUrl": "https://api.github.com/repos/Gheovgos/listenbrainz-tracker-extension/releases/latest"
+  },
+  {
     "id": "lrclib_lyrics",
     "type": "lyrics",
     "name": "Lrclib",
