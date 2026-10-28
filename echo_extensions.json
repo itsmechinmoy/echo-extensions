@@ -45,6 +45,15 @@
     "updateUrl": "https://api.github.com/repos/rebelonion/echo-asmr-one/releases/latest"
   },
   {
+    "id": "bilibili",
+    "type": "music",
+    "name": "Bilibili",
+    "subtitle": "Bilibili Music & Video Audio Extension for Echo.",
+    "iconUrl": "https://i0.hdslb.com/bfs/static/jinkela/long/images/favicon.ico",
+    "url": "https://github.com/itsmechinmoy/echo-bilibili-extension",
+    "updateUrl": "https://api.github.com/repos/itsmechinmoy/echo-bilibili-extension/releases"
+  },
+  {
     "id": "echo_combine",
     "type": "music",
     "name": "Combine Extension",
