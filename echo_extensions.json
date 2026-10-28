@@ -51,7 +51,7 @@
     "subtitle": "Bilibili Music & Video Audio Extension for Echo.",
     "iconUrl": "https://i0.hdslb.com/bfs/static/jinkela/long/images/favicon.ico",
     "url": "https://github.com/itsmechinmoy/echo-bilibili-extension",
-    "updateUrl": "https://api.github.com/repos/itsmechinmoy/echo-bilibili-extension/releases"
+    "updateUrl": "https://api.github.com/repos/itsmechinmoy/echo-bilibili-extension/releases/latest"
   },
   {
     "id": "echo_combine",
