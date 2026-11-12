@@ -216,15 +216,6 @@
     "updateUrl": "https://api.github.com/repos/rebelonion/echo-lyrics-translator/releases/latest"
   },
   {
-    "id": "musixmatch_lyrics",
-    "type": "lyrics",
-    "name": "Musixmatch",
-    "subtitle": "View lyrics with Musixmatch on Echo",
-    "iconUrl": "https://files.catbox.moe/heyxop.jpg",
-    "url": "https://www.musixmatch.com",
-    "updateUrl": "https://api.github.com/repos/shub39/echo-musixmatch-extension/releases/latest"
-  },
-  {
     "id": "opensubsonic",
     "type": "music",
     "name": "OpenSubsonic",
